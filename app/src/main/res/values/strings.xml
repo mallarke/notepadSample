@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotePad</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_restore">Restore</string>
+
+    <string name="notepad_header">Enter some cool shit here</string>
+
+    <string name="settings_label_text">do some cool stuff with settings here</string>
+    <string name="settings_button_text">Click me</string>
+
+</resources>
